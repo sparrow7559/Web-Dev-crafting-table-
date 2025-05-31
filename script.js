@@ -101,3 +101,4 @@ clearButton.addEventListener('click', () => {
   clearCraftingTable(); 
 });
 
+// null 
